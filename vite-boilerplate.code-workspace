@@ -24,6 +24,12 @@
 			"editor.tabSize": 2,
 			"editor.defaultFormatter": "esbenp.prettier-vscode"
 		},
+		"eslint.validate": [
+			"javascript",
+			"javascriptreact",
+			"typescript",
+			"typescriptreact",
+		],
 		"javascript.preferences.importModuleSpecifier": "non-relative",
 		"cSpell.words": [
 			"clsx"
